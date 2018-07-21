@@ -1,0 +1,2 @@
+# ajur.js
+ajur
